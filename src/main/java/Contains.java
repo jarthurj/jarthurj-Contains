@@ -14,6 +14,7 @@ public class Contains {
         for(int x:arr){
             if(x==target){
                 return true;
+                //THIS
             }
         }
         return false;
